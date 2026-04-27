@@ -21,7 +21,7 @@ I'm a computer science student learning Data science, cybersecuirty, applied AI 
 ### Network Traffic Predictor
 Model that Predicts Traffic and alerts admin if unusually high
 - **Tech**: JupyterNotebook, Python, 
-- [View Project]()
+- [View Project]https://github.com/CSCarterdicaprio/Network-Traffic-Predictor
 
 ### SPACE X DATA CAPSTONE
 This is a completed version of IBMs Data Science Course from Coursera
