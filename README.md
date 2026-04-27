@@ -13,7 +13,7 @@ I'm a computer science student learning Data science, cybersecuirty, applied AI 
 - Learning more about Predictive Modeling by creating a network traffic predictor
 
 ## 📫 Let's Connect
-- **LinkedIn**: [Carter DiCaprio] https://www.linkedin.com/in/carter-dicaprio-5a51873a2/
+- **LinkedIn**: [Carter DiCaprio] (https://www.linkedin.com/in/carter-dicaprio-5a51873a2/)
 - **Email**: cjd12004@outlook.com
 
 ## 🚀 Featured Projects
